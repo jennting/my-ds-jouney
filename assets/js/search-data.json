@@ -3,7 +3,7 @@
     
         "post0": {
             "title": "FastPages - How to Get Started",
-            "content": "",
+            "content": "img_url =&#39;https://raw.githubusercontent.com/fastai/fastpages/master/images/diagram.png&#39; .",
             "url": "https://jennting.github.io/my-ds-jouney/fastpages/jupyter/2020/07/28/_7_29_FastPages_Tutorial.html",
             "relUrl": "/fastpages/jupyter/2020/07/28/_7_29_FastPages_Tutorial.html",
             "date": " • Jul 28, 2020"
